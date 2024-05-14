@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+img, a, button{
+    display: block;
+    text-decoration: none;
+}
+#dog{
+    height: 40px;
+    width: 100%;
+    background-color: aliceblue;
+}
